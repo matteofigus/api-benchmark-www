@@ -17,5 +17,11 @@
   },
   "scripts": {
     "test": "mocha"
+  },
+  "author": "Matteo Figus <matteofigus@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matteofigus/api-benchmark-www.git"
   }
 }
