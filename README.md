@@ -1,6 +1,8 @@
 api-benchmark-www [![Build Status](https://secure.travis-ci.org/matteofigus/api-benchmark-www.png?branch=master)](http://travis-ci.org/matteofigus/api-benchmark-www)
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/matteofigus/api-benchmark-www.svg)](https://greenkeeper.io/)
+
 The repository for [www.api-benchmark.com](http://www.api-benchmark.com)
 
 # License
